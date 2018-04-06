@@ -18,3 +18,5 @@ Version 2.1 Update to README file and added paragraph to chapter2
 Version 2.2 Chaper 2 completed and Updated README
 
 Version3 . Added .gitignore to ignore ignoreMe.txt file
+
+Version 4 Created Chapter3.html and updated README
