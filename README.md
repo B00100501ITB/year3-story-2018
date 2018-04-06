@@ -20,3 +20,5 @@ Version 2.2 Added RoboCop paragraph to chaper 2
 Version 2.3 Chapter 2 complete . Created Chapter 3.html
 
 Version 3.0 Added html frame to Chapter3
+
+Version 3.1 Added first paragraph to Chapter3
