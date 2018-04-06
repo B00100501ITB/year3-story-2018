@@ -22,3 +22,5 @@ Version 2.3 Chapter 2 complete . Created Chapter 3.html
 Version 3.0 Added html frame to Chapter3
 
 Version 3.1 Added first paragraph to Chapter3
+
+Version 3.2 Add Final paragraph to Chapter 3
