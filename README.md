@@ -14,3 +14,5 @@ Version 1.3 Another Update to the ReadMe file and completion of Chapter1. Create
 Version 2.0 Update to Chapter 2 to add HTLM frame
 
 Version 2.1 Update to README file and added paragraph to chapter2
+
+Version 2.2 Chaper 2 completed and Updated README
