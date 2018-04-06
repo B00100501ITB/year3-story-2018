@@ -22,3 +22,5 @@ Version3 . Added .gitignore to ignore ignoreMe.txt file
 Version 4 Created Chapter3.html and updated README
 
 Version 4.1 Added frame of HTML page to Chapter 3
+
+Version 4.2 Added Paragraph to Chapter 3
