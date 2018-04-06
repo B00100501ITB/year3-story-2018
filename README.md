@@ -14,3 +14,5 @@ Version 1.4 Completed Chapter 1
 Version 2.0. Created Chapter 2
 
 Version 2.1 Created html frame in chapter 2
+
+Version 2.2 Added RoboCop paragraph to chaper 2
