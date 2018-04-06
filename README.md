@@ -26,3 +26,5 @@ Version 4.1 Added frame of HTML page to Chapter 3
 Version 4.2 Added Paragraph to Chapter 3
 
 Version 4.3 Finailised Chapter 3 Updated README
+
+Version 4.3.1 Alternative ending chapter 3
