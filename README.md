@@ -24,3 +24,5 @@ Version 3.0 Added html frame to Chapter3
 Version 3.1 Added first paragraph to Chapter3
 
 Version 3.2 Add Final paragraph to Chapter 3
+
+Version 3.2.1 . Alternate ending chapter 3
