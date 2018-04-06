@@ -28,3 +28,9 @@ Version 3.2 Add Final paragraph to Chapter 3
 Version 3.3 .Added end header to Chapter 3
 
 Version 4.0 Added gitignore
+
++[Chapter1](year3-story-2018/Chapter1.html)
+
++[Chapter2](year3-story-2018/Chapter2.html)
+
++[Chapter3](year3-story-2018/Chapter3.html)
