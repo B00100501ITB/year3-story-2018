@@ -29,8 +29,8 @@ Version 3.3 .Added end header to Chapter 3
 
 Version 4.0 Added gitignore
 
-+[Chapter1](https://b00100501itb.github.io/year3-story-2018/year3-story-2018/Chapter1.html)
++[Chapter1](https://github.com/B00100501ITB/year3-story-2018/blob/master/Chapter1.html)
 
-+[Chapter2](https://b00100501itb.github.io/year3-story-2018/year3-story-2018/Chapter2.html)
++[Chapter2](https://github.com/B00100501ITB/year3-story-2018/blob/master/Chapter2.html)
 
-+[Chapter3](https://b00100501itb.github.io/year3-story-2018/year3-story-2018/Chapter3.html)
++[Chapter3](https://github.com/B00100501ITB/year3-story-2018/blob/master/Chapter3.html)
