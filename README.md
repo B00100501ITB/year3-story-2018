@@ -10,3 +10,5 @@ Version 1.2 Added HTML body to chapter 1
 Version 1.3 Added first paragraph to Chapter 1 
 
 Version 1.4 Completed Chapter 1
+
+Version 2.0. Created Chapter 2
