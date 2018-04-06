@@ -4,3 +4,5 @@ Student No:B00100501
 Git Story 
 
 Version 1. Update README and create Chapter1.HTML
+
+Version 1.1 Update README and create outline of Chapter1 HTML page 
