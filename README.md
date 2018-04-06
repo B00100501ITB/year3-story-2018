@@ -26,3 +26,5 @@ Version 3.1 Added first paragraph to Chapter3
 Version 3.2 Add Final paragraph to Chapter 3
 
 Version 3.3 .Added end header to Chapter 3
+
+Version 4.0 Added gitignore
